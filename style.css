@@ -45,6 +45,11 @@ body {
     gap: 36px;
 }
 
+#options p {
+    font-size: 24px;
+    font-family: 'Roboto Condensed';
+}
+
 #options input {
     border-radius: 8px;
     height: 48px;
